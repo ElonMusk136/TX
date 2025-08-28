@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("not allowed access tang county script")
+game:GetService("Players").LocalPlayer:Kick("not allowed to access hebei tang county script")
